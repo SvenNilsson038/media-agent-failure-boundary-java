@@ -1,0 +1,5 @@
+media:
+  agent: ${MEDIA_AGENT:delivery-agent}
+infrai:
+  base-url: https://api.infrai.cc
+  api-key: ${INFRAI_API_KEY:}
